@@ -1,0 +1,27 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+.container {
+    background-color:yellowgreen;
+    max-width: 75%;
+    margin: 5rem auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border-radius: 20px;
+    
+}
+
+.item {
+    background-color: red;
+    height: 100%;
+    width: 500%;
+}
+
+.items {
+    background-color: blueviolet;
+}
+
